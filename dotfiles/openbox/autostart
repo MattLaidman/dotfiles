@@ -1,0 +1,10 @@
+pcmanfm --desktop &
+
+compton -b &
+
+plank &
+xfce4-panel &
+mate-power-manager &
+nm-applet &
+volumeicon &
+
